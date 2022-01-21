@@ -9,11 +9,14 @@
 </head>
 <body>
     <header>
+        <div class="container">
+            <div class="header-left"></div>
+            <div class="header-right"></div>
         <p>IFG</p>
         <br>
         <p>We are Neandermann.</p>
         
-
+        </div>
     </header>
     
     <main>
