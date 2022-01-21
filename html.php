@@ -14,7 +14,7 @@
              <p>IFG</p>
           </div>
           <div class="header-right"></div>
-            
+             <p>Go Heaven!</p>
         
         <br>
         <p>We are Neandermann.</p>
