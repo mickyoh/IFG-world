@@ -10,13 +10,16 @@
 <body>
     <header>
         <div class="container">
-            <div class="header-left"></div>
-            <div class="header-right"></div>
-        <p>IFG</p>
+          <div class="header-left">
+             <p>IFG</p>
+          </div>
+          <div class="header-right"></div>
+            
+        
         <br>
         <p>We are Neandermann.</p>
         
-        </div>
+          </div>
     </header>
     
     <main>
